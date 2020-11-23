@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/thead/Documents/Component/EmployeeWebApp/src/java/controller/AddEmployeeController.java</file>
+            <file>file:/C:/Users/thead/Documents/Component/EmployeeWebApp/web/menu.jsp</file>
+            <file>file:/C:/Users/thead/Documents/Component/EmployeeWebApp/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/thead/Documents/Component/EmployeeWebApp/src/java/controller/InitServlet.java</file>
+            <file>file:/C:/Users/thead/Documents/Component/EmployeeWebApp/src/java/model/Employee.java</file>
+            <file>file:/C:/Users/thead/Documents/Component/EmployeeWebApp/src/java/model/EmployeeTable.java</file>
+            <file>file:/C:/Users/thead/Documents/Component/EmployeeWebApp/web/showemployee.jsp</file>
+            <file>file:/C:/Users/thead/Documents/Component/EmployeeWebApp/src/java/controller/ConfirmUpdateController.java</file>
+            <file>file:/C:/Users/thead/Documents/Component/EmployeeWebApp/web/updateemployee.jsp</file>
+            <file>file:/C:/Users/thead/Documents/Component/EmployeeWebApp/web/confirmdelete.jsp</file>
+            <file>file:/C:/Users/thead/Documents/Component/EmployeeWebApp/src/java/controller/ConfirmDeleteController.java</file>
+            <file>file:/C:/Users/thead/Documents/Component/EmployeeWebApp/web/removeemployee.jsp</file>
+            <file>file:/C:/Users/thead/Documents/Component/EmployeeWebApp/src/java/controller/UpdateEmployeeController.java</file>
+            <file>file:/C:/Users/thead/Documents/Component/EmployeeWebApp/web/updateresult.jsp</file>
+            <file>file:/C:/Users/thead/Documents/Component/EmployeeWebApp/web/addresult.jsp</file>
+            <file>file:/C:/Users/thead/Documents/Component/EmployeeWebApp/web/deleteresult.jsp</file>
+            <file>file:/C:/Users/thead/Documents/Component/EmployeeWebApp/web/addemployee.jsp</file>
+            <file>file:/C:/Users/thead/Documents/Component/EmployeeWebApp/web/modifyemployee.jsp</file>
+            <file>file:/C:/Users/thead/Documents/Component/EmployeeWebApp/src/java/controller/RemoveEmployeeController.java</file>
+        </group>
+    </open-files>
+</project-private>
